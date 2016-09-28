@@ -1,4 +1,4 @@
-# AndroidChat
+# PatoChat
 
 ##Bienvenidos
 
